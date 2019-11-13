@@ -1,8 +1,3 @@
-<!doctype html>
-<html> 
-<head>
-<title>十大美食</title>
-<style> 
 h1  { color: gold; }
 img { margin:0pt 0pt 0pt 20pt; }
 body{

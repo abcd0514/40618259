@@ -1,10 +1,3 @@
-h1  { color: gold; }
-img { margin:0pt 0pt 0pt 20pt; }
-body{
-	background-image: url('center.jpg');
-	background-size overflow: 
-	}
-</style>
 </head>
 <body>
 <h1>
